@@ -98,33 +98,6 @@ One of the properties can be missing given the others are in order.
 
 **Note:** Always check the MDN docs to dissect a given CSS property. Remember, practice will make you perfect
 
-### The background-position property:
-- Sets the starting position of a background image
-```
-.div1{
-    background-position: left top;
-}
-```
-
-### The background-attachment property
-- Defines a scrollable/non-scrollable character of a background image.
-```
-.div2{
-          background-attachment: fixed;
-}
-```
-
-### The background shorthand
-- A single property to set multiple background properties
-```
-.div3{
-          background: red url(‘img.png’) no-repeat fixed right top;
-}
-```
-
-One of the properties can be missing given the others are in order.
-
-
 ## Chapter – 2 (Practice Set)
 
 1. Create a dark blue navigation bar with light color items.
